@@ -1,0 +1,220 @@
+{
+    "template": {
+        "name": "",
+        "grade": "",
+        "color": "black"
+    },
+    "frontend": {
+        "html_css_es": {
+            "name": "HTML5/CSS3/ES6+",
+            "grade": "★★★",
+            "color": "black"
+        },
+        "react_nestjs": {
+            "name": "React/Nest.js",
+            "grade": "★★★",
+            "color": "black"
+        },
+        "reactcontext": {
+            "name": "React Context",
+            "grade": "★★",
+            "color": "black"
+        },
+        "reactquery": {
+            "name": "React Query",
+            "grade": "★★",
+            "color": "black"
+        },
+        "reactstrap": {
+            "name": "React Strap",
+            "grade": "★★★",
+            "color": "black"
+        },
+        "sass": {
+            "name": "SASS",
+            "grade": "★★★",
+            "color": "black"
+        },
+        "sveltekit": {
+            "name": "Svelte-Kit",
+            "grade": "★",
+            "color": "black"
+        },
+        "jsp": {
+            "name": "JSP",
+            "grade": "★",
+            "color": "black"
+        },
+        "jquery": {
+            "name": "jQuery",
+            "grade": "★★★",
+            "color": "black"
+        }
+    },
+    "backend": {
+        "nestjs": {
+            "name": "Nest.js",
+            "grade": "★★★",
+            "color": "black"
+        },
+        "express": {
+            "name": "Express.js",
+            "grade": "★★★",
+            "color": "black"
+        },
+        "spring": {
+            "name": "Spring",
+            "grade": "★★",
+            "color": "black"
+        },
+        "dotnet": {
+            "name": ".Net",
+            "grade": "★",
+            "color": "black"
+        },
+        "fastapi": {
+            "name": "FastAPI",
+            "grade": "★",
+            "color": "black"
+        }
+    },
+    "database": {
+        "mssql": {
+            "name": "MSSQL",
+            "grade": "★★",
+            "color": "black"
+        },
+        "mariadb": {
+            "name": "MariaDB",
+            "grade": "★★★",
+            "color": "black"
+        },
+        "postgresql": {
+            "name": "PostgreSQL",
+            "grade": "★★★",
+            "color": "black"
+        },
+        "mongodb": {
+            "name": "MongoDB",
+            "grade": "★★★",
+            "color": "black"
+        },
+        "redis": {
+            "name": "Redis",
+            "grade": "★★",
+            "color": "black"
+        },
+        "mybatis_hibernate": {
+            "name": "Mybatis/Hibernate",
+            "grade": "★★",
+            "color": "black"
+        },
+        "mongoose": {
+            "name": "mongoose",
+            "grade": "★★★",
+            "color": "black"
+        },
+        "typeorm": {
+            "name": "TypeORM",
+            "grade": "★★★",
+            "color": "black"
+        }
+    },
+    "infra": {
+        "aws": {
+            "name": "AWS",
+            "grade": "★★",
+            "color": "black"
+        },
+        "ncp": {
+            "name": "NCP",
+            "grade": "★★",
+            "color": "black"
+        },
+        "docker": {
+            "name": "Docker",
+            "grade": "★★★",
+            "color": "black"
+        },
+        "kubernetes": {
+            "name": "Kubernetes",
+            "grade": "★★",
+            "color": "black"
+        },
+        "restfulapi": {
+            "name": "Restful API",
+            "grade": "★★★",
+            "color": "black"
+        },
+        "graphql": {
+            "name": "GraphQL",
+            "grade": "★★",
+            "color": "black"
+        },
+        "socketio": {
+            "name": "socket.io",
+            "grade": "★★",
+            "color": "black"
+        },
+        "webrtc": {
+            "name": "WebRTC",
+            "grade": "★★",
+            "color": "black"
+        }
+    },
+    "etc": {
+        "git": {
+            "name": "Git/GitHub",
+            "grade": "★★★",
+            "color": "black"
+        },
+        "svn": {
+            "name": "SVN",
+            "grade": "★★",
+            "color": "black"
+        },
+        "mssourcesafe": {
+            "name": "MS SourceSafe",
+            "grade": "★★",
+            "color": "black"
+        },
+        "atlassian": {
+            "name": "Atlassian",
+            "grade": "★★",
+            "color": "black"
+        },
+        "slack": {
+            "name": "Slack",
+            "grade": "★★★",
+            "color": "black"
+        },
+        "notion": {
+            "name": "Notion",
+            "grade": "★★★",
+            "color": "black"
+        },
+        "clickup": {
+            "name": "ClickUp",
+            "grade": "★★★",
+            "color": "black"
+        }
+    },
+    "grade": {
+        "zero": {
+            "grade": "☆",
+            "desc": ""
+        },
+        "one": {
+            "grade": "★",
+            "desc": ""
+        },
+        "two": {
+            "grade": "★★",
+            "desc": ""
+        },
+        "three": {
+            "grade": "★★★",
+            "desc": ""
+        }
+    }
+}
